@@ -3,7 +3,7 @@
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-public class task3 
+public class Demo 
 {
         private static Map<String, String> userCredentials = new HashMap<>();
         static 
